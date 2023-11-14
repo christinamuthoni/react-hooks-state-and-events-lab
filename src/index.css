@@ -13,6 +13,21 @@
   padding: 0;
   box-sizing: border-box;
 }
+.App {
+
+}
+
+.dark-mode {
+  /* Styles for dark mode */
+  background: #333;
+  color: #fff;
+}
+
+.light-mode {
+  /* Styles for light mode */
+  background: #fff;
+  color: #333;
+}
 
 body {
   background: rgb(231, 231, 231);
